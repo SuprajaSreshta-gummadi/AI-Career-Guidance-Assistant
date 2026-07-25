@@ -1,0 +1,132 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hello",
+        "hi",
+        "hey",
+        "good morning",
+        "good evening",
+        "hello assistant"
+      ],
+      "responses": [
+        "Hello! I am your AI Career Guidance Assistant.",
+        "Hi! I can help you explore careers, skills, and career opportunities.",
+        "Welcome! Let's explore the right career path for you."
+      ]
+    },
+    {
+      "tag": "career_exploration",
+      "patterns": [
+        "what career should I choose",
+        "which career is best for me",
+        "help me choose a career",
+        "I want to explore careers",
+        "what career options are available",
+        "tell me about career paths"
+      ],
+      "responses": [
+        "There are many career paths including Data Science, Artificial Intelligence, Software Development, Cybersecurity, and Cloud Computing."
+      ]
+    },
+    {
+      "tag": "career_recommendation",
+      "patterns": [
+        "recommend a career for me",
+        "which career suits me",
+        "suggest a career",
+        "what career is suitable for my skills",
+        "give me a career recommendation",
+        "help me find a suitable career"
+      ],
+      "responses": [
+        "I can recommend a career based on your skills and interests. Please tell me about your skills."
+      ]
+    },
+    {
+      "tag": "skill_requirements",
+      "patterns": [
+        "what skills are needed for data scientist",
+        "skills required for AI engineer",
+        "what should I learn for machine learning",
+        "skills needed for software developer",
+        "what skills do I need",
+        "required skills for a career"
+      ],
+      "responses": [
+        "Please mention the career you are interested in, such as Data Scientist, AI Engineer, or Software Developer."
+      ]
+    },
+    {
+      "tag": "industry_trends",
+      "patterns": [
+        "what are the latest industry trends",
+        "which technologies are growing",
+        "what technology is in demand",
+        "future technology trends",
+        "which careers are in demand",
+        "tell me about industry trends"
+      ],
+      "responses": [
+        "Artificial Intelligence, Machine Learning, Data Science, Cloud Computing, Cybersecurity, and Generative AI are important growing technology areas."
+      ]
+    },
+    {
+      "tag": "salary_insights",
+      "patterns": [
+        "what is the salary of a data scientist",
+        "how much does an AI engineer earn",
+        "career salary information",
+        "which career has a high salary",
+        "tell me about salary",
+        "salary insights"
+      ],
+      "responses": [
+        "Salary depends on skills, experience, location, and company. Developing strong technical skills can improve career opportunities."
+      ]
+    },
+    {
+      "tag": "interview_preparation",
+      "patterns": [
+        "how can I prepare for an interview",
+        "give me interview preparation tips",
+        "how to prepare for a technical interview",
+        "interview tips",
+        "help me prepare for an interview",
+        "what should I study for interviews"
+      ],
+      "responses": [
+        "Prepare your fundamentals, practice coding, understand your projects, improve communication, and practice common interview questions."
+      ]
+    },
+    {
+      "tag": "career_goal_setting",
+      "patterns": [
+        "how can I set my career goals",
+        "help me set career goals",
+        "what should be my career goal",
+        "how to plan my career",
+        "career planning advice",
+        "I want to set a career goal"
+      ],
+      "responses": [
+        "Set a clear career goal, identify required skills, create a learning plan, build projects, and regularly track your progress."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "bye",
+        "goodbye",
+        "exit",
+        "quit",
+        "see you later"
+      ],
+      "responses": [
+        "Goodbye! Best wishes for your career journey.",
+        "Thank you for using the AI Career Guidance Assistant!"
+      ]
+    }
+  ]
+}

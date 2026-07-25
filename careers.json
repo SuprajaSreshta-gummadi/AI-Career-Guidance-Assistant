@@ -1,0 +1,101 @@
+{
+  "Data Scientist": {
+    "description": "A Data Scientist analyzes data and builds machine learning models to solve real-world problems.",
+    "skills": [
+      "Python",
+      "Statistics",
+      "SQL",
+      "Machine Learning",
+      "Pandas",
+      "NumPy",
+      "Scikit-learn"
+    ],
+    "career_path": [
+      "Learn Python",
+      "Learn Statistics",
+      "Learn SQL",
+      "Learn Machine Learning",
+      "Build Data Science Projects"
+    ],
+    "industry_trend": "Data Science continues to be important in business, healthcare, finance, and technology."
+  },
+
+  "AI Engineer": {
+    "description": "An AI Engineer develops artificial intelligence systems and machine learning applications.",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Neural Networks",
+      "TensorFlow or PyTorch",
+      "Natural Language Processing"
+    ],
+    "career_path": [
+      "Learn Python",
+      "Learn Machine Learning",
+      "Learn Deep Learning",
+      "Study AI Technologies",
+      "Build AI Projects"
+    ],
+    "industry_trend": "Artificial Intelligence and Generative AI are rapidly growing technology areas."
+  },
+
+  "Software Developer": {
+    "description": "A Software Developer designs, develops, tests, and maintains software applications.",
+    "skills": [
+      "Programming",
+      "Data Structures",
+      "Algorithms",
+      "Object-Oriented Programming",
+      "Git",
+      "Problem Solving"
+    ],
+    "career_path": [
+      "Learn a Programming Language",
+      "Study Data Structures",
+      "Practice Algorithms",
+      "Build Projects",
+      "Prepare for Technical Interviews"
+    ],
+    "industry_trend": "Software development remains an important career across many industries."
+  },
+
+  "Data Analyst": {
+    "description": "A Data Analyst analyzes data and creates insights to support business decisions.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Excel",
+      "Statistics",
+      "Power BI",
+      "Data Visualization"
+    ],
+    "career_path": [
+      "Learn Excel",
+      "Learn SQL",
+      "Learn Statistics",
+      "Learn Python",
+      "Practice Data Visualization"
+    ],
+    "industry_trend": "Organizations increasingly use data analytics to make better business decisions."
+  },
+
+  "Cybersecurity Analyst": {
+    "description": "A Cybersecurity Analyst protects computer systems and networks from security threats.",
+    "skills": [
+      "Networking",
+      "Linux",
+      "Cybersecurity Fundamentals",
+      "Security Tools",
+      "Risk Analysis"
+    ],
+    "career_path": [
+      "Learn Computer Networks",
+      "Learn Linux",
+      "Study Cybersecurity",
+      "Practice Security Tools",
+      "Learn Ethical Security Practices"
+    ],
+    "industry_trend": "Cybersecurity professionals are increasingly needed to protect digital systems and data."
+  }
+}
